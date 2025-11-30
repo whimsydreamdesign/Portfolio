@@ -1,7 +1,3 @@
-main( ) {
-        printf("hello, portfolio!");
-}
-
 Welcome to my portfolio!
 
 This is but a small sampling of my abilities and past works.
