@@ -1,0 +1,3 @@
+Comic art is my specialty, and the skill I've invested the most of my time and effort into.
+Whether longform or shortform, serious or silly, I love comics very much, and appreciate the lessons I've learned from making them, such as...
+Work quick, work well, and don't miss that deadline!
